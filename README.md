@@ -1,4 +1,4 @@
 👋 Hi, I’m Fontaine Nguimatio
-👀 I’m interested in AI, Machine Learning, Computer vision and Data science with their applications in Autonomous systems, Anomaly detection, Video analytics and Computational Neuroscience
-🌱 I’m currently a Junior Machine Learning Engineer at ISDEV EXPERT Cameroon
-📫 How to reach me fontaine@aims.ac.za
+👀 I’m interested in AI, Machine Learning, Visual Computing, Multimodal AI, and Data science with their applications in Medicine, Biology, Cognitive Science and Computational Neuroscience
+🌱 I’m currently a Pre-Doctoral Student at Bernstein Center for Computational Neuroscience Berlin (BCCN)
+📫 How to reach me fontaine.dongmo@bccn-berlin.de
